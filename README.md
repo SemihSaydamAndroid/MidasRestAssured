@@ -1,12 +1,11 @@
-# Project Title
-###Midas Rest Assured
+# Midas Rest Assured
 
 ### Dependencies
 
 * log4j
 * cucumber
 * rest-assured
-* wiremock
+* wiremock (for unit tests)
 * junit
 
 ## Authors
